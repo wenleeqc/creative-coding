@@ -8,7 +8,7 @@ Visual and interactive projects built with p5.js library.
 
 Demo: https://editor.p5js.org/wenners/sketches/dIk4nd021
 
-### Doodlesshop GUI
+### Doodleshop GUI
 <img src="https://user-images.githubusercontent.com/74733659/165579994-4a799118-22aa-493c-9e78-7c467daa3951.gif" width=600>
 
 Demo: https://editor.p5js.org/wenners/sketches/UCmEL35Tz

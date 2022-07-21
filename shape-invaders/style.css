@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button[value="restartbutton"] {
+  background-color: rgba(0,0,0,0);
+  border: 0.5rem solid yellow;
+  border-radius: 0;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 1rem 2rem;
+  color:yellow;
+  transition: 0.3s ease-in-out;
+}
+
+button[value="restartbutton"]:hover {
+  background-color: rgba(0,0,0,0);
+  border: 0.5rem solid white;
+  border-radius: 10% / 50%;
+  color: white;
+  cursor: pointer;
+}

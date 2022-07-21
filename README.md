@@ -6,6 +6,7 @@ Visual and interactive projects built with p5.js library.
 
 ### Shape Invaders
 
+![shape-invaders](https://user-images.githubusercontent.com/74733659/180307139-10cf66c1-aad7-4c0e-b5d4-2c08c7458c65.gif)
 Demo: https://editor.p5js.org/wenners/sketches/qkgJJzoxr
 
 ### Scanimation

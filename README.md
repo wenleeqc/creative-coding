@@ -88,6 +88,8 @@ Demo: https://editor.p5js.org/wenners/sketches/s02NcF1zZ
 ### Generative Gift Wrap Design
 <img src="https://user-images.githubusercontent.com/74733659/165583086-04c4840a-2a30-43c6-867f-1192f8e5afbd.gif" width=600>
 
+Generative gift wrapping pattern in Memphis Design style.
+
 Demo: https://editor.p5js.org/wenners/sketches/9Tr062PYu
 
 

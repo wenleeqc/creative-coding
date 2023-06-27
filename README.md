@@ -59,11 +59,16 @@ Demo: <https://editor.p5js.org/wenners/sketches/Yosb4648_>
 ### Sol Lewitt Motion
 <img src="https://user-images.githubusercontent.com/74733659/165580569-fac560ac-977e-494f-89c7-8c1aca04e7d0.gif" width=600>
 
+This is the same generative polgyon mesh with motion.
+
 Demo: https://editor.p5js.org/wenners/sketches/xSu7V6zuT
 
 
 ### Generative Sol Lewitt Poster Exploration
 ![sol-lewitt](https://user-images.githubusercontent.com/74733659/165581115-f1171de2-2d4d-4640-a8f0-4a9b73b558a3.gif)
+
+This generative polygon mesh is a exploration of the Sol Lewitt prompt: six white geometric figures (outlines) superimposed on a black wall.
+https://massmoca.org/sol-lewitt/
 
 Demo: https://editor.p5js.org/wenners/sketches/z0l3-j26H-
 

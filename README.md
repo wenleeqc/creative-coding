@@ -37,20 +37,21 @@ Demo: https://editor.p5js.org/wenners/sketches/UCmEL35Tz
 A take on visualizing time with a unconventional clock.
 
 The direction of irises corresponds to position on a traditional clock face.
-The color brightness corresponds to the time of day.
 
 - First pair of eyes track hours
 - Second pair of eyes track minutes
 - Third pair of eyes track seconds
   
-Base color is generated randomly.
-Color brightness is map to the minutes in a day, updated per minute and cycle ever 12 hours.
+The color brightness corresponds to the time of day. Base color is generated randomly. Color brightness is map to the minutes in a day, updated per minute and cycle ever 12 hours.
 
 Demo: https://editor.p5js.org/wenners/sketches/CvF6tAr4G
 
 
 ### Optical Illusion - Peripheral Drift
 <img src="https://user-images.githubusercontent.com/74733659/165583868-52128e3b-851d-41a2-b7a2-80495812979a.gif" width=700>
+
+This is an example of apparent motion. Your eyes are bombarded with so much information and there's a latency on when each shape is processed by the eye and that gives the illusion of wavy movement.
+https://en.wikipedia.org/wiki/Peripheral_drift_illusion
 
 Demo: <https://editor.p5js.org/wenners/sketches/Yosb4648_>
 

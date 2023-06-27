@@ -17,11 +17,11 @@ Demo: https://editor.p5js.org/wenners/sketches/qkgJJzoxr
 
 An example of barrier-grid animation.
 
-Viewer can control the speed of animation by sliding mouse across canvas to make cat "move"
-press mouse key to remove grid and reveal underlying image.
+Viewer can control the speed of animation by sliding the mouse across the canvas to make the cat "move".
+Press mouse key to remove grid and reveal underlying image.
 https://en.wikipedia.org/wiki/Barrier-grid_animation_and_stereography
 
-Demo: https://editor.p5js.org/wenners/sketches/dIk4nd021
+Demo: https://editor.p5js.org/wenners/sketches/qEp5tJIk3
 
 ### Doodleshop GUI
 <img src="https://user-images.githubusercontent.com/74733659/165579994-4a799118-22aa-493c-9e78-7c467daa3951.gif" width=600>

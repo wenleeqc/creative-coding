@@ -8,6 +8,8 @@ Visual and interactive projects built with p5.js library.
 
 ![shape-invaders](https://user-images.githubusercontent.com/74733659/180307139-10cf66c1-aad7-4c0e-b5d4-2c08c7458c65.gif)
 
+A space shooter game built with p5.js. Defeat the shapes and your math anxiety! Features multiple enemy types, player power ups, sound effects and synthy background music.
+
 Demo: https://editor.p5js.org/wenners/sketches/qkgJJzoxr
 
 ### Scanimation

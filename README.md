@@ -15,6 +15,12 @@ Demo: https://editor.p5js.org/wenners/sketches/qkgJJzoxr
 ### Scanimation
 ![scanimation](https://user-images.githubusercontent.com/74733659/165579233-abea7ddb-73b3-498e-bf15-723e2848dc40.gif)
 
+An example of barrier-grid animation.
+
+Viewer can control the speed of animation by sliding mouse across canvas to make cat "move"
+press mouse key to remove grid and reveal underlying image.
+https://en.wikipedia.org/wiki/Barrier-grid_animation_and_stereography
+
 Demo: https://editor.p5js.org/wenners/sketches/dIk4nd021
 
 ### Doodleshop GUI
@@ -30,7 +36,7 @@ Demo: https://editor.p5js.org/wenners/sketches/CvF6tAr4G
 ### Optical Illusion - Peripheral Drift
 <img src="https://user-images.githubusercontent.com/74733659/165583868-52128e3b-851d-41a2-b7a2-80495812979a.gif" width=700>
 
-Demo: https://editor.p5js.org/wenners/sketches/Yosb4648_
+Demo: <https://editor.p5js.org/wenners/sketches/Yosb4648_>
 
 ### Sol Lewitt Motion
 <img src="https://user-images.githubusercontent.com/74733659/165580569-fac560ac-977e-494f-89c7-8c1aca04e7d0.gif" width=600>

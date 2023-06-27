@@ -34,7 +34,7 @@ Demo: https://editor.p5js.org/wenners/sketches/UCmEL35Tz
 ### Eye Roll Clock
 ![eye-roll-clock](https://user-images.githubusercontent.com/74733659/165582042-53dc326d-4b7e-495d-95c3-2c0f313ad3b1.gif)
 
-A take on visualizing time with a unconventional clock.
+A take on visualizing time.
 
 The direction of irises corresponds to position on a traditional clock face.
 

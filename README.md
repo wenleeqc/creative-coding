@@ -51,7 +51,7 @@ Demo: https://editor.p5js.org/wenners/sketches/CvF6tAr4G
 <img src="https://user-images.githubusercontent.com/74733659/165583868-52128e3b-851d-41a2-b7a2-80495812979a.gif" width=700>
 
 
-This is an example of apparent motion. Your eyes are oversaturated with information that there's a latency for when each shape is processed by the eye and that gives the illusion of wavy movement
+This is an example of apparent motion. Your eyes are oversaturated with information that there's a latency for when each shape is processed by the eye and that gives the illusion of wavy movement.
 https://en.wikipedia.org/wiki/Peripheral_drift_illusion
 
 Demo: <https://editor.p5js.org/wenners/sketches/Yosb4648_>

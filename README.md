@@ -18,7 +18,7 @@ Demo: https://editor.p5js.org/wenners/sketches/qkgJJzoxr
 
 An example of barrier-grid animation.
 
-Viewer can control the speed of animation by sliding the mouse across the canvas to make the cat "move".
+Viewers can control the speed of animation by sliding the mouse across the canvas to make the cat "move".
 Press mouse key to remove grid and reveal underlying image.
 https://en.wikipedia.org/wiki/Barrier-grid_animation_and_stereography
 
